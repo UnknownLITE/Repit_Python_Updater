@@ -1,0 +1,1 @@
+run = "pip install -r build_requirements.txt && clear && python3 custom_python/cpython.py"
